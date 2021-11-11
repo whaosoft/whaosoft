@@ -1,4 +1,4 @@
-### 🤔 屌丝程序员一名
+### 🤔 就是写代码的~~
 
 <!--
 **whaosoft/whaosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

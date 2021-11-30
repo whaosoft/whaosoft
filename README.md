@@ -1,4 +1,4 @@
-### 🤔 1线の猿 ~~
+### 🤔 1线の猿 ~~ 不是在制造bug就是在制造bug的路上
 
 <!--
 **whaosoft/whaosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

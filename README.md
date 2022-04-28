@@ -4,7 +4,7 @@ whaosoft studio - github dockerhub npm all whaosoft
 
 🔭 I’m currently working on ...
 
-java go python c++ c# android vue
+java go python c++ c# c arduino android vue 
 
 <!--
 **whaosoft/whaosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

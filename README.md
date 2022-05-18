@@ -1,6 +1,6 @@
 ### 🤔 1线の猿 ~~ 其实还是喜欢专心写代码的猿
 
-whaosoft studio - github dockerhub npm all whaosoft
+whaosoft studio aiot - github dockerhub npm all whaosoft
 
 🔭 I’m currently working on ...
 

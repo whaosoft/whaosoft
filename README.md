@@ -4,7 +4,7 @@ whaosoft studio aiot - github dockerhub npm all whaosoft
 
 🔭 I’m currently working on ...
 
-java go python c c++ c# c arduino vue electron threejs babylon android wasm
+java go python c c++ c# c arduino vue electron android wasm threejs babylon c4d blender
 
 <!--
 **whaosoft/whaosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

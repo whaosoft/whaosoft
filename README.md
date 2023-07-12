@@ -12,7 +12,7 @@ whaosoft studio aiot - github dockerhub npm all whaosoft
 
 github https://github.com/whao888    
 
-涉及        
+技术栈        
 java go python c c++ c# c arduino vue electron android wasm threejs babylon c4d blender
 
 <!--

@@ -4,6 +4,13 @@ whaosoft studio aiot - github dockerhub npm all whaosoft
 
 🔭 I’m currently working on ...
 
+【QQ群64104075 / WeChat whaosoft】   
+1. 物联网IOT arduino esp8266 stm 等
+2. 视觉相关-瑕疵检测-和测量设备等
+3. 数字孪生
+4. 车联网IOV C-V2    
+
+# 语言等
 java go python c c++ c# c arduino vue electron android wasm threejs babylon c4d blender
 
 <!--

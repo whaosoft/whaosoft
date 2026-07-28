@@ -10,6 +10,8 @@ whaosoft studio aiot - github dockerhub npm all whaosoft
 3. 数字孪生
 4. 车联网IOV V2X    
 
+网站 https://143ai.cn 
+
 github https://github.com/whao888    
 
 店铺地址 https://whaosoft.taobao.com/
